@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1734437194,
+	"version": 1734438572,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,14 @@
 		"images/pngmemegameswhatthefuck_-sheet0.png",
 		"images/assetsmemecubehowto-sheet0.png",
 		"images/play-sheet0.png",
+		"media/player jumps.m4a",
+		"media/player jumps.ogg",
+		"media/coin collect.m4a",
+		"media/coin collect.ogg",
+		"media/wilhelm scream.m4a",
+		"media/wilhelm scream.ogg",
+		"media/meme cube bgm.m4a",
+		"media/meme cube bgm.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
