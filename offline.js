@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1734431494,
+	"version": 1734437194,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,6 +13,8 @@
 		"images/trianglemorty-sheet1.png",
 		"images/particles2.png",
 		"images/pngmemegameswhatthefuck_-sheet0.png",
+		"images/assetsmemecubehowto-sheet0.png",
+		"images/play-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
