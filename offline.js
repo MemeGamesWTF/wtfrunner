@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1734418807,
+	"version": 1734420841,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,6 +11,7 @@
 		"images/pickchris-sheet0.png",
 		"images/particles.png",
 		"images/trianglemorty-sheet0.png",
+		"images/trianglemorty-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
